@@ -1,0 +1,13 @@
+.main-content-div {
+  position: relative;
+  margin-top: 3rem;
+  margin-left: 2rem;
+}
+.submit-btn {
+  position: relative;
+  margin-top: 1.5rem;
+}
+.field-container {
+  position: relative;
+  margin-top: 2rem;
+}
